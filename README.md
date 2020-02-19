@@ -1,3 +1,3 @@
 # bootstrap-project
-More Web Dev Bootcamp Fun
-Uploaded, added readme
+
+A Udemy project using Bootstrap
